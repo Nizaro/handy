@@ -11,3 +11,11 @@ We want a model that can output the shape of the object
 First we can develop a turn table that is holding a camera.
 We also need to start with object of different shape : simple cup can be a good begining based on different elipsoids.
 For this purpose we will 3D print different cups.
+
+## Evaluation & Data Generation
+To support the 3D printing and evaluation process, we developed a dedicated **Cup Generator & Evaluation Pipeline**. This tool allows us to:
+- Generate parametric cup variants with controlled geometric deformations (shear, flare).
+- Simulate FDM 3D printing artifacts.
+- Benchmark **Depth-Anything-V2** on these synthetic variants before real-world robotic testing.
+
+Repo: [cup-generator-depth-eval](https://github.com/635jack/cup-generator-depth-eval)
