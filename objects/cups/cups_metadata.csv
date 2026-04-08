@@ -1,0 +1,13 @@
+name,r_base_mm,r_top_mm,height_mm,bulge_mm,material,deformations
+cup_01_standard,40.0,50.0,80.0,0.0,matte,
+cup_02_tall_slim,30.0,35.0,150.0,5.0,silk,
+cup_03_short_wide,60.0,70.0,50.0,10.0,matte,
+cup_04_bulged_barrel,40.0,40.0,100.0,30.0,silk,
+cup_05_pinched_waist,40.0,40.0,100.0,-20.0,matte,
+cup_06_flared_top,40.0,40.0,80.0,0.0,matte,flare
+cup_07_pinched_top,40.0,60.0,80.0,0.0,silk,flare
+cup_08_sheared_tilt,40.0,40.0,90.0,0.0,matte,shear
+cup_09_elliptical,40.0,40.0,80.0,0.0,silk,scale
+cup_10_dented_custom,40.0,40.0,80.0,10.0,matte,dent
+cup_11_extreme_anamorph,30.0,30.0,120.0,0.0,silk,"shear, flare"
+cup_12_tiny_espresso,25.0,30.0,40.0,0.0,matte,
