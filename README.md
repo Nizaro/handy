@@ -19,3 +19,9 @@ To support the 3D printing and evaluation process, we developed a dedicated **Cu
 - Benchmark **Depth-Anything-V2** on these synthetic variants before real-world robotic testing.
 
 Repo: [cup-generator-depth-eval](https://github.com/635jack/cup-generator-depth-eval)
+
+## Grasp Dataset & Scaling
+To support large-scale learning of tactile interactions, we use a curated dataset of 3D contact points and visibility masks generated from Objaverse-LVIS.
+- **Dataset Generator**: [grasp-dataset-gen](https://github.com/635jack/grasp-dataset-gen)
+- **Hugging Face Dataset**: [grasp-dataset-curated](https://huggingface.co/datasets/jack635/grasp-dataset-curated)
+- **Video Demo**: [YouTube](https://youtu.be/RPjh99p6JNQ)
